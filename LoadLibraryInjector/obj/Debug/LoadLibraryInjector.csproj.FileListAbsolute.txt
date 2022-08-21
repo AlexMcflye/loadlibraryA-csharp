@@ -1,0 +1,11 @@
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\bin\Debug\LoadLibraryInjector.exe.config
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\bin\Debug\LoadLibraryInjector.exe
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\bin\Debug\LoadLibraryInjector.pdb
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.Form1.resources
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.Properties.Resources.resources
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.exe
+C:\Users\Furkan\source\repos\LoadLibraryInjector\LoadLibraryInjector\obj\Debug\LoadLibraryInjector.pdb
